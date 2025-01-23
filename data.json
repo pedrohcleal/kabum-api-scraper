@@ -1,0 +1,2104 @@
+{
+    "meta": {
+        "total_items_count": 9107,
+        "total_pages_count": 456,
+        "page": {
+            "cursor": "",
+            "number": 1,
+            "size": 20,
+            "is_current_page": true
+        },
+        "breadcrumb": [
+            {
+                "id": 1,
+                "name": "Hardware",
+                "path": "/hardware"
+            }
+        ],
+        "seo": {
+            "title": "Hardware: SSD, Processador, Mem\u00f3ria RAM e mais | KaBuM!",
+            "description": "Compre Hardware no KaBuM! As melhores ofertas em com \u00f3timas condi\u00e7\u00f5es de pagamento. Descubra a melhor forma de comprar online!",
+            "title_h1": "Hardware\r"
+        },
+        "promotion": {},
+        "filters": {
+            "string_filters": [
+                {
+                    "name": "category",
+                    "values": [
+                        "Hardware"
+                    ]
+                }
+            ]
+        }
+    },
+    "links": {
+        "redirect": "/hardware",
+        "first": "/catalog/v2/products-by-category/hardware?sort=most_searched&page_cursor=Tk9UIElTIFVTRQ==&page_number=1&page_size=20",
+        "self": "/catalog/v2/products-by-category/hardware?sort=most_searched&page_cursor=&page_number=1&page_size=20",
+        "last": "/catalog/v2/products-by-category/hardware?sort=most_searched&page_cursor=Tk9UIElTIFVTRQ==&page_number=456&page_size=20",
+        "next": "/catalog/v2/products-by-category/hardware?sort=most_searched&page_cursor=Tk9UIElTIFVTRQ==&page_number=2&page_size=20"
+    },
+    "data": [
+        {
+            "type": "product",
+            "id": 369658,
+            "links": {
+                "self": "/catalog/v2/products/369658"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/Fontes/Fonte 650W",
+                "title": "Fonte MSI MAG A650BN, 650W, 80 Plus Bronze, PFC Ativo, Com Cabo, Preto - 306-7ZP2B22-CE0",
+                "description": "<h2>Fonte MSI MAG A650BN</h2>\n<p>&nbsp;</p>\n<h3>Pot&ecirc;ncia Est&aacute;vel para Suas Jogatinas</h3>\n<p>A fonte MSI MAG A650BN &eacute; a escolha perfeita para gamers que buscam <strong>desempenho</strong> e <strong>confiabilidade</strong>. Com <strong>650W de pot&ecirc;ncia real</strong> e certifica&ccedil;&atilde;o 80 PLUS Bronze, ela garante energia est&aacute;vel e eficiente para alimentar seus componentes de alta performance. O <strong>PFC Ativo</strong> melhora a qualidade da energia, enquanto o design de circuito DC para DC proporciona maior estabilidade. Desfrute de uma experi&ecirc;ncia de jogo suave e sem interrup&ccedil;&otilde;es com a MSI MAG A650BN.</p>\n<p>&nbsp;</p>\n<h3>Certifica&ccedil;&atilde;o 80 Plus Bronze</h3>\n<p>A efici&ecirc;ncia de sua fonte de alimenta&ccedil;&atilde;o influencia diretamente o&nbsp;<strong>desempenho</strong>&nbsp;de seu sistema e seu consumo de energia. A certifica&ccedil;&atilde;o 80 PLUS BRONZE promete&nbsp;<strong>menor consumo de energia e maior efici&ecirc;ncia</strong>.</p>\n<p>&nbsp;</p>\n<h3>Ventilador de Baixo Ru&iacute;do 120mm</h3>\n<p>O mancal da&nbsp;<strong>ventoinha reduz o ru&iacute;do gerado</strong>, mantendo uma excelente dissipa&ccedil;&atilde;o de calor.</p>\n<p>&nbsp;</p>\n<h3>Projeto de Circuito DC para DC</h3>\n<p>O projeto de&nbsp;<strong>circuito DC-DC</strong>&nbsp;adotado&nbsp;<strong>reduz a instabilidade da tens&atilde;o</strong>&nbsp;<strong>de sa&iacute;da e aumenta a estabilidade do fornecimento de energia</strong>.</p>\n<p>&nbsp;</p>\n<h3>Prote&ccedil;&atilde;o Abrangente de Circuito</h3>\n<p><strong>Suporta mecanismos de prote&ccedil;&atilde;o OCP, OVP, SCP, OPP, OTP</strong>&nbsp;e fornece&nbsp;<strong>prote&ccedil;&atilde;o</strong>&nbsp;<strong>abrangente</strong>.</p>\n<p>&nbsp;</p>\n<h3>Compre agora no KaBuM!</h3>",
+                "weight": 2060.0,
+                "price": 374.99,
+                "old_price": 0.0,
+                "discount_percentage": 12,
+                "price_with_discount": 329.99,
+                "offer": {
+                    "id": "888783",
+                    "name": "FIRST LEVEL",
+                    "reference_banner": "firstlevel",
+                    "starts_at": 1737373860,
+                    "ends_at": 1738584000,
+                    "quantity_available": 145,
+                    "price": 340.9,
+                    "price_with_discount": 299.99,
+                    "discount_percentage": 9,
+                    "is_logged_user_exclusive": false,
+                    "hash_code": "2ae48eb52a00679c420ffcfc3c646067a047f754"
+                },
+                "prime": {
+                    "price": 330.67,
+                    "price_with_discount": 290.99,
+                    "discount_percentage": 11,
+                    "save": 9.0,
+                    "is_logged_user_exclusive": true
+                },
+                "origin": null,
+                "is_prime": true,
+                "is_openbox": false,
+                "has_free_shipping": true,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 19311,
+                "limit_buy": 10,
+                "type": 0,
+                "external_url": "",
+                "warranty": "5 anos de garantia (3 meses de garantia legal + 57 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 3086,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 2,
+                    "name": "MSI",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-msi.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770996_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1667590559_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770994_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770992_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770993_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770995_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770996_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1667590559_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770994_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770992_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770993_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770995_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770996_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1667590559_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770994_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770992_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770993_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770995_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770996_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1667590559_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770994_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770992_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770993_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770995_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770996_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1667590559_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770994_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770992_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770993_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770995_original.jpg"
+                ],
+                "tag_description": "Compre a sua Fonte MSI MAG A650BN, ATX, 650W, 80 PLUS aqui no KaBuM!",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": null,
+                "max_installment": "10x de R$ 34,08",
+                "max_installment_prime": "10x de R$ 33,06"
+            }
+        },
+        {
+            "type": "product",
+            "id": 172365,
+            "links": {
+                "self": "/catalog/v2/products/172365"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/Mem\u00f3ria RAM/DDR 4",
+                "title": "Mem\u00f3ria RAM Kingston Fury Beast, 8GB, 3200MHz, DDR4, CL16, Preto - KF432C16BB/8",
+                "description": "<p>Mem&oacute;ria Kingston Fury Beast A mem&oacute;ria Kingston FURY Beast DDR4 proporciona um poderoso aumento de performance para jogos, edi&ccedil;&atilde;o de v&iacute;deo e renderiza&ccedil;&atilde;o. Ela faz o overclock autom&aacute;tico para a especifica&ccedil;&atilde;o de maior performance do m&oacute;dulo que seja suportada pelo sistema* e est&aacute; pronta para Intel XMP e AMD Ryzen. Com o seu dissipador de calor de perfil baixo, a mem&oacute;ria FURY Beast DDR4 permanece fria e pronta para o seu game. 100% testada na f&aacute;brica, &eacute; a atualiza&ccedil;&atilde;o definitiva para seu computador. Os processadores/chipsets da Intel at&eacute; a 7&ordf; Gera&ccedil;&atilde;o n&atilde;o eram desenvolvidos para suportar m&oacute;dulos de mem&oacute;ria DDR4 fabricados com chips DRAM de densidade 16Gbit. Verifique com o fabricante do sistema ou placa-m&atilde;e, caso o seu sistema possua processador Intel de 7&ordf; gera&ccedil;&atilde;o e com o chipset da s&eacute;rie 200, para obter uma BIOS atualizada para suportar DRAM de 16Gbit. Componentes mais antigos (6&ordf; gera&ccedil;&atilde;o ou chipsets da s&eacute;rie 100) n&atilde;o s&atilde;o compat&iacute;veis. *A mem&oacute;ria FURY Plug N Play funcionar&aacute; nos sistemas DDR4 at&eacute; a velocidade permitida pela BIOS do sistema do fabricante. PnP n&atilde;o pode aumentar a velocidade da mem&oacute;ria do sistema al&eacute;m do que &eacute; permitido pela BIOS do fabricante. Os produtos FURY Plug N Play DDR4 s&atilde;o compat&iacute;veis com as especifica&ccedil;&otilde;es XMP 2.0, desse modo o overclock tamb&eacute;m pode ser conseguido habilitando o Perfil XMP integrado.</p>",
+                "weight": 50.0,
+                "price": 219.77,
+                "old_price": 0.0,
+                "discount_percentage": 9,
+                "price_with_discount": 199.99,
+                "offer": null,
+                "prime": {
+                    "price": 213.18,
+                    "price_with_discount": 193.99,
+                    "discount_percentage": 2,
+                    "save": 6.0,
+                    "is_logged_user_exclusive": true
+                },
+                "origin": null,
+                "is_prime": true,
+                "is_openbox": false,
+                "has_free_shipping": true,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 4852,
+                "limit_buy": 5,
+                "type": 0,
+                "external_url": "",
+                "warranty": "10 anos de garantia (3 meses de garantia legal + 117 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 755,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 50,
+                    "name": "Kingston",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-kingston.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270523_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270526_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270525_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270524_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270523_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270526_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270525_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270524_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270523_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270526_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270525_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270524_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270523_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270526_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270525_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270524_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270523_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270526_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270525_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270524_original.jpg"
+                ],
+                "tag_description": "Compre Mem\u00f3ria Kingston Fury Beast no KaBuM! As melhores ofertas com \u00f3timas condi\u00e7\u00f5es de pagamento. Descubra a melhor forma de comprar online!",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": null,
+                "max_installment": "8x de R$ 27,47",
+                "max_installment_prime": "8x de R$ 26,64"
+            }
+        },
+        {
+            "type": "product",
+            "id": 172366,
+            "links": {
+                "self": "/catalog/v2/products/172366"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/Mem\u00f3ria RAM/DDR 4",
+                "title": "Mem\u00f3ria RAM Kingston Fury Beast, 16GB, 3200MHz, DDR4, CL16, Preto - KF432C16BB1/16",
+                "description": "<h2>Mem&oacute;ria Kingston Fury Beast</h2>\n<p><br /><br />A mem&oacute;ria Kingston FURY Beast DDR4 proporciona um poderoso aumento de performance para jogos, edi&ccedil;&atilde;o de v&iacute;deo e renderiza&ccedil;&atilde;o. Ela faz o overclock autom&aacute;tico para a especifica&ccedil;&atilde;o de maior performance do m&oacute;dulo que seja suportada pelo sistema* e est&aacute; pronta para Intel XMP e AMD Ryzen. Com o seu dissipador de calor de perfil baixo, a mem&oacute;ria FURY Beast DDR4 permanece fria e pronta para o seu game. 100% testada na f&aacute;brica, &eacute; a atualiza&ccedil;&atilde;o definitiva para seu computador. Os processadores/chipsets da Intel at&eacute; a 7&ordf; Gera&ccedil;&atilde;o n&atilde;o eram desenvolvidos para suportar m&oacute;dulos de mem&oacute;ria DDR4 fabricados com chips DRAM de densidade 16Gbit. Verifique com o fabricante do sistema ou placa-m&atilde;e, caso o seu sistema possua processador Intel de 7&ordf; gera&ccedil;&atilde;o e com o chipset da s&eacute;rie 200, para obter uma BIOS atualizada para suportar DRAM de 16Gbit. Componentes mais antigos (6&ordf; gera&ccedil;&atilde;o ou chipsets da s&eacute;rie 100) n&atilde;o s&atilde;o compat&iacute;veis.</p>\n<p>*A mem&oacute;ria FURY Plug N Play funcionar&aacute; nos sistemas DDR4 at&eacute; a velocidade permitida pela BIOS do sistema do fabricante. PnP n&atilde;o pode aumentar a velocidade da mem&oacute;ria do sistema al&eacute;m do que &eacute; permitido pela BIOS do fabricante. Os produtos FURY Plug N Play DDR4 s&atilde;o compat&iacute;veis com as especifica&ccedil;&otilde;es XMP 2.0, desse modo o overclock tamb&eacute;m pode ser conseguido habilitando o Perfil XMP integrado.</p>",
+                "weight": 55.0,
+                "price": 288.65,
+                "old_price": 0.0,
+                "discount_percentage": 3,
+                "price_with_discount": 279.99,
+                "offer": null,
+                "prime": null,
+                "origin": null,
+                "is_prime": false,
+                "is_openbox": false,
+                "has_free_shipping": true,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 764,
+                "limit_buy": 4,
+                "type": 0,
+                "external_url": "",
+                "warranty": "10 anos de garantia (3 meses de garantia legal + 117 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 399,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 50,
+                    "name": "Kingston",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-kingston.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271100_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271102_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271099_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271101_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271100_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271102_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271099_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271101_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271100_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271102_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271099_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271101_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271100_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271102_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271099_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271101_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271100_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271102_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271099_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271101_original.jpg"
+                ],
+                "tag_description": "Kingston FURY Beast DDR4 \u00e9 a escolha perfeita para um construtor de sistemas ou para algu\u00e9m que procura uma atualiza\u00e7\u00e3o para iniciar seu sistema lento.",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": null,
+                "max_installment": "10x de R$ 28,86",
+                "max_installment_prime": null
+            }
+        },
+        {
+            "type": "product",
+            "id": 130043,
+            "links": {
+                "self": "/catalog/v2/products/130043"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/Coolers/Water Cooler",
+                "title": "Water Cooler Rise Mode Gamer Black, RGB, 240mm, AMD/Intel, Preto - RM-WCB-02-RGB",
+                "description": "<h2>Water Cooler Rise Mode Gamer Black, RGB, 240mm</h2>\n<p>&nbsp;</p>\n<p>Domine seus jogos com o Water Cooler Rise Mode Black RGB <strong>240mm</strong>. Desenvolvido para gamers exigentes, ele garante resfriamento eficiente para processadores de <strong>at&eacute; 220W</strong>, permitindo <strong>overclocking seguro</strong> e desempenho m&aacute;ximo.</p>\n<p>&nbsp;</p>\n<h2>Dual Fan de 120mm</h2>\n<p>Com<strong> rolamento hidr&aacute;ulico</strong> e funcionamento <strong>silencioso</strong>, trabalham em conjunto para dissipar o calor de forma eficiente.</p>\n<p>&nbsp;</p>\n<h2>Personalize Seu Setup</h2>\n<p>Com a <strong>ilumina&ccedil;&atilde;o RGB vibrante</strong> e sincronize os efeitos com outros componentes do seu PC.</p>\n<p>&nbsp;</p>\n<h2>Ampla Compatibilidade</h2>\n<p>Compat&iacute;vel com as principais plataformas <strong>Intel</strong> e <strong>AMD</strong>, este water cooler &eacute; a escolha ideal para quem busca alta performance e um visual impactante.</p>\n<p>&nbsp;</p>\n<h3>Compre agora no KaBuM!</h3>",
+                "weight": 1720.0,
+                "price": 217.64,
+                "old_price": 0.0,
+                "discount_percentage": 15,
+                "price_with_discount": 184.99,
+                "offer": null,
+                "prime": null,
+                "origin": null,
+                "is_prime": false,
+                "is_openbox": false,
+                "has_free_shipping": false,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 17712,
+                "limit_buy": 5,
+                "type": 0,
+                "external_url": "",
+                "warranty": "1 ano de garantia (3 meses de garantia legal + 9 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 1855,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 1578,
+                    "name": "Rise Mode",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-rise.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776681_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776682_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776683_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776685_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776684_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776686_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776689_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776687_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776688_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776681_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776682_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776683_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776685_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776684_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776686_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776689_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776687_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776688_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776681_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776682_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776683_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776685_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776684_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776686_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776689_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776687_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776688_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776681_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776682_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776683_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776685_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776684_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776686_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776689_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776687_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776688_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776681_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776682_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776683_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776685_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776684_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776686_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776689_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776687_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-preto-rm-wcb-02-rgb_1663776688_original.jpg"
+                ],
+                "tag_description": "A  solu\u00e7\u00e3o perfeita! Desfrute de desempenho m\u00e1ximo, temperaturas mais baixas e um visual incr\u00edvel. Compre j\u00e1!",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": {
+                    "id": 3,
+                    "title": "TOP OFERTA",
+                    "name": "top_oferta",
+                    "description": "Aproveite hoje essa oferta do Ninja com pre\u00e7o imperd\u00edvel.",
+                    "link_rule": "",
+                    "background_color": "#8941aa",
+                    "font_color": "#F2F3F4",
+                    "type": "padrao"
+                },
+                "max_installment": "8x de R$ 27,20",
+                "max_installment_prime": null
+            }
+        },
+        {
+            "type": "product",
+            "id": 380744,
+            "links": {
+                "self": "/catalog/v2/products/380744"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/SSD/SSD PCIe NVMe",
+                "title": "SSD Kingston NV2, 500GB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 3500 MB/s, Grava\u00e7\u00e3o: 2100 MB/s, Azul - SNV2S/500G",
+                "description": "<h2>SSD Kingston NV2 500 GB, M.2 2280 PCIe NVMe</h2>\n<h3>Solu&ccedil;&atilde;o de Ultima gera&ccedil;&atilde;o</h3>\n<p>O NV2 PCIe 4.0 NVMe SSD da Kingston &eacute; uma solu&ccedil;&atilde;o substancial de armazenamento de &uacute;ltima gera&ccedil;&atilde;o alimentada por um controlador Gen 4x4 NVMe. O NV2 oferece velocidades de leitura/grava&ccedil;&atilde;o de at&eacute; <strong>3.500/2.100 MB/s</strong> com menores requisitos de energia e menor aquecimento para ajudar a otimizar o desempenho do seu sistema e agregar valor sem sacrif&iacute;cios.</p>\n<p>&nbsp;</p>\n<h3>Compacto</h3>\n<p>O <strong>design compacto</strong> de face &uacute;nica <strong>M.2 2280</strong> (22x80mm) expande o armazenamento em&nbsp;500GB enquanto economiza espa&ccedil;o para outros componentes, tornando o NV2 ideal para notebooks mais finos, sistemas de formato pequeno (SFF) e placas-m&atilde;e DIY.<br />Instalar um SSD (Disco de estado s&oacute;lido) M.2 &eacute; f&aacute;cil e aumentar&aacute; significativamente o desempenho do seu computador. Siga esses passos abaixo para acelerar seu dispositivo e aumentar o espa&ccedil;o livre de armazenamento.</p>\n<p>&nbsp;</p>\n<h3>Mais Armazenamento para Voc&ecirc;</h3>\n<p>Dispon&iacute;vel em capacidades de <strong>500 GB</strong> para oferecer todo o espa&ccedil;o necess&aacute;rio para aplicativos, documentos, fotos, v&iacute;deos e muito mais.<br />Integra-se facilmente em modelos com conectores M.2. Perfeito para laptops finos e PCs de formato pequeno.</p>\n<p>&nbsp;</p>\n<h3>Aproveite essa oportunidade e adquira seu SSD Kingston NV2 250 GB no KaBuM!</h3>",
+                "weight": 40.0,
+                "price": 411.75,
+                "old_price": 0.0,
+                "discount_percentage": 15,
+                "price_with_discount": 349.99,
+                "offer": {
+                    "id": "895662",
+                    "name": "FIRST LEVEL",
+                    "reference_banner": "firstlevel",
+                    "starts_at": 1736509278,
+                    "ends_at": 1738584000,
+                    "quantity_available": 272,
+                    "price": 341.16,
+                    "price_with_discount": 289.99,
+                    "discount_percentage": 17,
+                    "is_logged_user_exclusive": false,
+                    "hash_code": "585da4c39eeb94824622bc12cd56add5be346ec6"
+                },
+                "prime": null,
+                "origin": null,
+                "is_prime": false,
+                "is_openbox": false,
+                "has_free_shipping": true,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 984,
+                "limit_buy": 100,
+                "type": 0,
+                "external_url": "",
+                "warranty": "3 anos de garantia (3 meses de garantia legal + 33 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 1003,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 50,
+                    "name": "Kingston",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-kingston.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032961_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032960_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032962_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032959_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032961_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032960_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032962_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032959_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032961_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032960_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032962_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032959_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032961_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032960_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032962_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032959_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032961_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032960_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032962_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/380744/ssd-kingston-nv2-500-gb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-500g_1666032959_original.jpg"
+                ],
+                "tag_description": "O NV2 PCIe 4.0 NVMe SSD de 500 GB da Kingston \u00e9 uma solu\u00e7\u00e3o substancial de armazenamento de \u00faltima gera\u00e7\u00e3o com design compacto. Compre J\u00e1!",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": null,
+                "max_installment": "10x de R$ 34,11",
+                "max_installment_prime": null
+            }
+        },
+        {
+            "type": "product",
+            "id": 111131,
+            "links": {
+                "self": "/catalog/v2/products/111131"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/Coolers/FAN/120 mm",
+                "title": "Ventoinha Rise Mode Wind W1, 120mm, LED Branco, Preto - RM-WN-01-BW",
+                "description": "<h2>Cooler FAN Rise Mode Wind W1, 120mm, LED Branco - RM-WN-01-BW</h2>\n<p>O Cooler FAN Rise Mode Wind W1 &eacute; um excelente produto para quem busca refrigera&ccedil;&atilde;o e sil&ecirc;ncio para seu gabinete. Com um fluxo de ar de 50 CFM e uma velocidade de rota&ccedil;&atilde;o de 1500 RPM, ele &eacute; capaz de manter seu sistema resfriado mesmo em condi&ccedil;&otilde;es de alta carga. Al&eacute;m disso, o seu n&iacute;vel sonoro de 28 dBA o torna um dos coolers mais silenciosos do mercado.<br />O Cooler FAN Rise Mode Wind W1 &eacute; tamb&eacute;m muito f&aacute;cil de instalar. Ele possui um conector padr&atilde;o de 3 pinos, que pode ser conectado diretamente na placa m&atilde;e. Al&eacute;m disso, ele tamb&eacute;m possui um conector molex, que permite que ele seja ligado em sequ&ecirc;ncia com outros coolers. Se voc&ecirc; est&aacute; procurando um cooler silencioso e eficiente para o seu gabinete, o Cooler FAN Rise Mode Wind W1 &eacute; a sua melhor op&ccedil;&atilde;o.</p>",
+                "weight": 125.0,
+                "price": 15.28,
+                "old_price": 0.0,
+                "discount_percentage": 15,
+                "price_with_discount": 12.99,
+                "offer": {
+                    "id": "889285",
+                    "name": "FIRST LEVEL",
+                    "reference_banner": "firstlevel",
+                    "starts_at": 1736943120,
+                    "ends_at": 1738584000,
+                    "quantity_available": 3341,
+                    "price": 11.75,
+                    "price_with_discount": 9.99,
+                    "discount_percentage": 23,
+                    "is_logged_user_exclusive": false,
+                    "hash_code": "cdf5cca692c4b90c230990e08543f891d656c2fd"
+                },
+                "prime": {
+                    "price": 11.4,
+                    "price_with_discount": 9.69,
+                    "discount_percentage": 25,
+                    "save": 0.0,
+                    "is_logged_user_exclusive": true
+                },
+                "origin": null,
+                "is_prime": true,
+                "is_openbox": false,
+                "has_free_shipping": false,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 14646,
+                "limit_buy": 100,
+                "type": 0,
+                "external_url": "",
+                "warranty": "1 ano de garantia (3 meses de garantia legal + 9 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 862,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 1578,
+                    "name": "Rise Mode",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-rise.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777252_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777253_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777254_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777255_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777256_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777257_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777258_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777259_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777252_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777253_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777254_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777255_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777256_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777257_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777258_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777259_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777252_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777253_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777254_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777255_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777256_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777257_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777258_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777259_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777252_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777253_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777254_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777255_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777256_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777257_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777258_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777259_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777252_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777253_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777254_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777255_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777256_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777257_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777258_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/111131/cooler-fan-rise-mode-wind-w1-120mm-led-branco-rm-wn-01-bw_1663777259_original.jpg"
+                ],
+                "tag_description": "O Cooler FAN Rise Mode Wind W1 \u00e9 uma \u00f3tima op\u00e7\u00e3o para quem busca um ventilador silencioso e eficiente para seu PC. Garanta j\u00e1 o seu no KaBuM!",
+                "ufs_flash": [
+                    "SP",
+                    "MG"
+                ],
+                "featured_product": false,
+                "stamps": {
+                    "id": 284,
+                    "title": "Entrega R\u00e1pida",
+                    "name": "entrega_rapida",
+                    "description": "Com Entrega Flash*, seu produto chega rapid\u00e3o!",
+                    "link_rule": "https://themes.kabum.com.br/conteudo/stamps/entrega_rapida.json",
+                    "background_color": "#E35214",
+                    "font_color": "#F2F3F4",
+                    "type": "padrao"
+                },
+                "max_installment": "1x de R$ 10,58",
+                "max_installment_prime": "1x de R$ 10,26"
+            }
+        },
+        {
+            "type": "product",
+            "id": 105105,
+            "links": {
+                "self": "/catalog/v2/products/105105"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/SSD/SSD SATA",
+                "title": "SSD Rise Mode Line, SATA, 240GB, 2.5\", Leitura: 535MB/s, Grava\u00e7\u00e3o: 435MB/s, Preto - RM-SSD-240",
+                "description": "<h2>SSD Rise Mode Gamer Line 240GB, SATA</h2>\n<p>&nbsp;</p>\n<p>Leve seus jogos e aplicativos a outro n&iacute;vel! Com o SSD SATA Rise Mode Line <strong>240GB</strong>, voc&ecirc; ter&aacute; carregamentos de jogos mais r&aacute;pidos, tempos de carregamento de n&iacute;veis mais curtos e uma <strong>experi&ecirc;ncia de jogo mais fluida</strong>. Ideal para gamers e entusiastas de multim&iacute;dia, o SSD Rise Mode Line oferece o desempenho que voc&ecirc; precisa para aproveitar ao m&aacute;ximo seus conte&uacute;dos.</p>\n<p>&nbsp;</p>\n<h3>Compre agora no KaBuM!</h3>",
+                "weight": 65.0,
+                "price": 152.93,
+                "old_price": 0.0,
+                "discount_percentage": 15,
+                "price_with_discount": 129.99,
+                "offer": {
+                    "id": "893796",
+                    "name": "FIRST LEVEL",
+                    "reference_banner": "firstlevel",
+                    "starts_at": 1736509278,
+                    "ends_at": 1738584000,
+                    "quantity_available": 1867,
+                    "price": 129.4,
+                    "price_with_discount": 109.99,
+                    "discount_percentage": 15,
+                    "is_logged_user_exclusive": false,
+                    "hash_code": "fb3578111848d9887a6841be81d223ba5c2ce8a6"
+                },
+                "prime": {
+                    "price": 117.64,
+                    "price_with_discount": 99.99,
+                    "discount_percentage": 23,
+                    "save": 10.0,
+                    "is_logged_user_exclusive": true
+                },
+                "origin": null,
+                "is_prime": true,
+                "is_openbox": false,
+                "has_free_shipping": true,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 4935,
+                "limit_buy": 100,
+                "type": 0,
+                "external_url": "",
+                "warranty": "1 ano de garantia (3 meses de garantia legal + 9 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 81,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 1578,
+                    "name": "Rise Mode",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-rise.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233275_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233253_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233262_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233257_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233247_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233250_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233275_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233253_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233262_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233257_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233247_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233250_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233275_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233253_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233262_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233257_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233247_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233250_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233275_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233253_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233262_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233257_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233247_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233250_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233275_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233253_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233262_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233257_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233247_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/105105/ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_ssd-rise-mode-gamer-line-240gb-sata-leitura-535mb-s-gravacao-435mb-s-rm-ssd-240_1571233250_original.jpg"
+                ],
+                "tag_description": "Compre SSD Rise Mode Gamer Line 240GB no KaBuM! As melhores ofertas com \u00f3timas condi\u00e7\u00f5es de pagamento. Descubra a melhor forma de comprar online!",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": {
+                    "id": 3,
+                    "title": "TOP OFERTA",
+                    "name": "top_oferta",
+                    "description": "Aproveite hoje essa oferta do Ninja com pre\u00e7o imperd\u00edvel.",
+                    "link_rule": "",
+                    "background_color": "#8941aa",
+                    "font_color": "#F2F3F4",
+                    "type": "padrao"
+                },
+                "max_installment": "5x de R$ 25,88",
+                "max_installment_prime": "4x de R$ 29,41"
+            }
+        },
+        {
+            "type": "product",
+            "id": 502274,
+            "links": {
+                "self": "/catalog/v2/products/502274"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/Coolers/FAN/120 mm",
+                "title": "Kit com 3 Ventoinhas Rise Mode X, 120mm, Led ARGB, Branco - RM-XLD-02-ARGB",
+                "description": "<h2>Kit com 3 Ventoinhas Rise Mode X</h2>\n<p>&nbsp;</p>\n<h2>Transforme seu Setup</h2>\n<p><strong>Ilumina&ccedil;&atilde;o ARGB Personaliz&aacute;vel.</strong> Crie um espet&aacute;culo de luzes de cores e diversos efeitos, controlados diretamente pelo bot&atilde;o do seu gabinete.</p>\n<p>&nbsp;</p>\n<h2>Desempenho de Refrigera&ccedil;&atilde;o Incr&iacute;vel</h2>\n<p><strong>Fluxo de Ar Potente.</strong> Tr&ecirc;s ventoinhas de <strong>120mm</strong> com fluxo de ar de <strong>50 CFM</strong> garantem a refrigera&ccedil;&atilde;o eficiente de seus componentes, mesmo durante as sess&otilde;es de jogo mais intensas.</p>\n<p>&nbsp;</p>\n<h3>Compre j&aacute; o seu no KaBuM!</h3>",
+                "weight": 426.0,
+                "price": 90.9,
+                "old_price": 0.0,
+                "discount_percentage": 12,
+                "price_with_discount": 79.99,
+                "offer": {
+                    "id": "880648",
+                    "name": "FIRST LEVEL",
+                    "reference_banner": "firstlevel",
+                    "starts_at": 1737562980,
+                    "ends_at": 1738584000,
+                    "quantity_available": 78,
+                    "price": 67.03,
+                    "price_with_discount": 58.99,
+                    "discount_percentage": 26,
+                    "is_logged_user_exclusive": false,
+                    "hash_code": "df546db38bc047e172a3ce64649c6b5751c36024"
+                },
+                "prime": {
+                    "price": 65.02,
+                    "price_with_discount": 57.22,
+                    "discount_percentage": 28,
+                    "save": 2.0,
+                    "is_logged_user_exclusive": true
+                },
+                "origin": null,
+                "is_prime": true,
+                "is_openbox": false,
+                "has_free_shipping": false,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 3416,
+                "limit_buy": 4,
+                "type": 0,
+                "external_url": "",
+                "warranty": "1 ano de garantia (3 meses de garantia legal + 9 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 4,
+                "number_of_ratings": 125,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 1578,
+                    "name": "Rise Mode",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-rise.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-com-3-ventoinhas-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1717592700_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929981_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929982_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929984_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929983_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929985_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929987_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929986_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-com-3-ventoinhas-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1717592700_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929981_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929982_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929984_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929983_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929985_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929987_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929986_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-com-3-ventoinhas-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1717592700_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929981_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929982_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929984_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929983_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929985_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929987_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929986_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-com-3-ventoinhas-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1717592700_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929981_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929982_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929984_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929983_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929985_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929987_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929986_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/502274/kit-com-3-ventoinhas-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1717592700_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929981_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929982_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929984_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929983_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929985_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929987_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/502274/kit-cooler-fan-gamer-3-unidades-rise-mode-x-120mm-led-argb-branco-rm-xld-02-argb_1712929986_original.jpg"
+                ],
+                "tag_description": "A escolha ideal para gamers, entusiastas e profissionais que buscam um kit de refrigera\u00e7\u00e3o eficiente, personaliz\u00e1vel e com design elegante. Compre j\u00e1!",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": null,
+                "max_installment": "2x de R$ 33,51",
+                "max_installment_prime": "2x de R$ 32,51"
+            }
+        },
+        {
+            "type": "product",
+            "id": 280890,
+            "links": {
+                "self": "/catalog/v2/products/280890"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/Placas-m\u00e3e/Placa-M\u00e3e AMD",
+                "title": "Placa-M\u00e3e MSI A520M-A PRO, AMD AM4, mATX, DDR4, Preto - A520M-A PRO",
+                "description": "<h2>Placa-M&atilde;e MSI A520M-A PRO, AMD AM4, MATX, DDR4</h2>\n<p>A <strong>Placa-M&atilde;e MSI A520M-A</strong> da s&eacute;rie <strong>PRO</strong> ajuda os usu&aacute;rios a trabalhar de forma mais inteligente, oferecendo uma experi&ecirc;ncia &uacute;nica em efici&ecirc;ncia e produtividade para usu&aacute;rios DIY. Seu funcionamento est&aacute;vel e montagem de alta qualidade, fazem com que a <strong>Placa-M&atilde;e MSI A520M-A PRO</strong> ofere&ccedil;a muito mais que fluxos de trabalho profissionais otimizados: s&atilde;o menos problemas para o usu&aacute;rio e m&aacute;xima longevidade.</p>\n<p>&nbsp;</p>\n<h2>Totalmente Control&aacute;vel no Bios e Software</h2>\n<p>As placas-m&atilde;e MSI permitem que voc&ecirc; gerencie velocidades e temperaturas para todos os ventiladores do seu sistema e da CPU. O <strong>Total Fan Control</strong> permite verificar as caracter&iacute;sticas do sistema prim&aacute;rio em uma interface gr&aacute;fica simplificada.&nbsp;</p>\n<p>&nbsp;</p>\n<h2>PCB com revestimento de cobre engrossado de 2oz</h2>\n<p>Um design de PCB melhorado com revestimento de cobre espesso de 2oz aumenta a condutividade, melhorando a dissipa&ccedil;&atilde;o do calor e a confiabilidade especialmente durante o overclocking.</p>\n<p>&nbsp;</p>\n<h2>Controle total em bios e software</h2>\n<p>A Tecnologia <strong>Total Fan Control</strong> permite que voc&ecirc; tenha controle total da sua placa-m&atilde;e permitindo o gerenciamento de velocidade e temperatura direto no BIOS ou no Software com uma interface gr&aacute;fica simples e intuitiva.&nbsp;</p>\n<p>&nbsp;</p>\n<h2>Armazenamento r&aacute;pido e pronto para o futuro</h2>\n<p>As placas-m&atilde;e MSI PRO suportam todas as normas de armazenamento mais recentes, o que permite aos usu&aacute;rios se conectarem com qualquer dispositivo de <strong>armazenamento ultra-r&aacute;pido</strong>.&nbsp;</p>\n<p>&nbsp;</p>\n<h2>Experi&ecirc;ncia audiovisual&nbsp;</h2>\n<p>Eleve seu prazer auditivo e desfrute de uma <strong>qualidade de som extrema</strong> com funcionalidades que permitem ajustar o sistema para atingir o <strong>desempenho m&aacute;ximo</strong>.&nbsp;</p>\n<p>&nbsp;</p>\n<h3>Compre agora no KaBuM!</h3>\n<p>&nbsp;</p>",
+                "weight": 750.0,
+                "price": 511.35,
+                "old_price": 0.0,
+                "discount_percentage": 12,
+                "price_with_discount": 449.99,
+                "offer": {
+                    "id": "895092",
+                    "name": "OUTLET SAGA DE DESCONTOS",
+                    "reference_banner": "outletsagadedescontos",
+                    "starts_at": 1737374280,
+                    "ends_at": 1737633600,
+                    "quantity_available": 15,
+                    "price": 488.62,
+                    "price_with_discount": 429.99,
+                    "discount_percentage": 4,
+                    "is_logged_user_exclusive": false,
+                    "hash_code": "551f1f4bbe461dcd477de948aee6ef937945eacb"
+                },
+                "prime": {
+                    "price": 473.96,
+                    "price_with_discount": 417.08,
+                    "discount_percentage": 7,
+                    "save": 13.0,
+                    "is_logged_user_exclusive": true
+                },
+                "origin": null,
+                "is_prime": true,
+                "is_openbox": false,
+                "has_free_shipping": true,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 1070,
+                "limit_buy": 4,
+                "type": 0,
+                "external_url": "",
+                "warranty": "3 anos de garantia (3 meses de garantia legal + 33 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 605,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 2,
+                    "name": "MSI",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-msi.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881948_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881952_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881951_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881949_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881950_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881948_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881952_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881951_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881949_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881950_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881948_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881952_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881951_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881949_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881950_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881948_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881952_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881951_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881949_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881950_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881948_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881952_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881951_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881949_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1722881950_original.jpg"
+                ],
+                "tag_description": "A Placa-M\u00e3e MSI A520M-A da s\u00e9rie PRO ajuda os usu\u00e1rios a trabalhar de forma mais inteligente, oferecendo uma experi\u00eancia \u00fanica em efici\u00eancia.",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": null,
+                "max_installment": "10x de R$ 48,86",
+                "max_installment_prime": "10x de R$ 47,39"
+            }
+        },
+        {
+            "type": "product",
+            "id": 235984,
+            "links": {
+                "self": "/catalog/v2/products/235984"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/Placa de v\u00eddeo (VGA)/Placa de v\u00eddeo AMD",
+                "title": "Placa de V\u00eddeo RX 6600 CLD 8G ASRock AMD Radeon, 8GB, GDDR6  - 90-GA2RZZ-00UANF",
+                "description": "<h2>Placa de V&iacute;deo ASRock AMD Radeon RX 6600 CLD 8G, 8GB</h2>\n<p>&nbsp;</p>\n<h3>Design de ventilador duplo</h3>\n<p>&nbsp;</p>\n<p>Dois ventiladores que fornecem forte desempenho de resfriamento e fazem seu equipamento de jogo permanecer frio. Ele &eacute; otimizado para oferecer uma excelente experi&ecirc;ncia de jogo com um design elegante e aerodin&acirc;mico.</p>\n<p>&nbsp;</p>\n<h3>Placa traseira de metal elegante S&oacute;lido, extravagante, legal</h3>\n<p>&nbsp;</p>\n<p>Projetado para evitar dobras do PCB. A apar&ecirc;ncia extravagante torna a placa de v&iacute;deo mais lend&aacute;ria em termos visuais. Tamb&eacute;m ajuda a melhorar o resfriamento com as almofadas t&eacute;rmicas premium equipadas na parte traseira.</p>\n<p>&nbsp;</p>\n<h3>Ventilador Axial Listrado</h3>\n<p>&nbsp;</p>\n<p>O Ventilador Axial Listrado personalizado da ASRock oferece fluxo de ar aprimorado para otimizar o resfriamento n&atilde;o apenas da estrutura listrada em cada p&aacute; do ventilador, mas tamb&eacute;m da superf&iacute;cie de polimento na parte inferior.</p>\n<p>&nbsp;</p>\n<h3>0dB Silent Cooling - Gire para resfriar, pare para silenciar</h3>\n<p>&nbsp;</p>\n<p>O ventilador gira quando a temperatura sobe para o resfriamento ideal e para quando a temperatura cai para o sil&ecirc;ncio completo.</p>\n<p>&nbsp;</p>\n<h3>Tubo de calor ultra-apto - Consolidado para maximizar o contato</h3>\n<p>&nbsp;</p>\n<p>Os heatpipes s&atilde;o consolidados para maximizar o contato entre si e tamb&eacute;m a placa de base da GPU para a dissipa&ccedil;&atilde;o de calor otimizada.</p>\n<p>&nbsp;</p>\n<h3>Pasta Nano T&eacute;rmica - Trabalho em equipe t&eacute;rmico perfeito</h3>\n<p>&nbsp;</p>\n<p>Elimine as lacunas na &aacute;rea de contato para maximizar a transfer&ecirc;ncia de calor e a efici&ecirc;ncia t&eacute;rmica.</p>\n<p>&nbsp;</p>\n<h3>Almofada T&eacute;rmica Premium - Melhor transfer&ecirc;ncia de calor</h3>\n<p>&nbsp;</p>\n<p>A almofada t&eacute;rmica premium ajuda a transferir o calor dos componentes para o dissipador de calor, melhorando a dissipa&ccedil;&atilde;o de calor.</p>\n<p>&nbsp;</p>\n<h3>Torque preciso do parafuso - Press&atilde;o de montagem otimizada</h3>\n<p>&nbsp;</p>\n<p>ASRock adota torque de parafuso preciso ao montar suas placas gr&aacute;ficas para otimizar a press&atilde;o de montagem do resfriador para melhorar a efici&ecirc;ncia t&eacute;rmica, evitando danos ao chip GPU.</p>\n<p>&nbsp;</p>\n<h3>Suporte de resolu&ccedil;&atilde;o 8K</h3>\n<p>&nbsp;</p>\n<p>N&atilde;o s&oacute; pode lidar com gr&aacute;ficos 4K, mas tamb&eacute;m suporta a pr&oacute;xima gera&ccedil;&atilde;o de sa&iacute;da de v&iacute;deo 8K para a experi&ecirc;ncia visual definitiva.</p>\n<p>&nbsp;</p>\n<h3>Suporte PCI Express 4.0</h3>\n<p>&nbsp;</p>\n<p>Esta placa gr&aacute;fica possui suporte para PCI Express 4.0, com um rendimento de 16 GT / se habilita duas vezes a largura de banda em compara&ccedil;&atilde;o com PCI Express 3.0. Prepare-se para a pr&oacute;xima gera&ccedil;&atilde;o de jogos para PC.</p>",
+                "weight": 950.0,
+                "price": 1741.06,
+                "old_price": 0.0,
+                "discount_percentage": 15,
+                "price_with_discount": 1479.9,
+                "offer": null,
+                "prime": {
+                    "price": 1688.83,
+                    "price_with_discount": 1435.51,
+                    "discount_percentage": 2,
+                    "save": 44.0,
+                    "is_logged_user_exclusive": true
+                },
+                "origin": null,
+                "is_prime": true,
+                "is_openbox": false,
+                "has_free_shipping": true,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 4854,
+                "limit_buy": 5,
+                "type": 0,
+                "external_url": "",
+                "warranty": "1 ano de garantia (3 meses de garantia legal + 9 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 891,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 1383,
+                    "name": "ASRock",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-asrock-new.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738812_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738810_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738811_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738809_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738813_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738812_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738810_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738811_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738809_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738813_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738812_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738810_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738811_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738809_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738813_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738812_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738810_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738811_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738809_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738813_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738812_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738810_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738811_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738809_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/235984/placa-de-video-asrock-amd-radeon-rx-6600-cld-8g-8gb-90-ga2rzz-00uanf_1634738813_original.jpg"
+                ],
+                "tag_description": "Compre Placa de V\u00eddeo RX 6600 CLD 8G ASRock AMD Radeon no KaBuM! As melhores ofertas com \u00f3timas condi\u00e7\u00f5es de pagamento. Descubra a melhor forma de comprar online!",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": null,
+                "max_installment": "10x de R$ 174,10",
+                "max_installment_prime": "10x de R$ 168,88"
+            }
+        },
+        {
+            "type": "product",
+            "id": 520369,
+            "links": {
+                "self": "/catalog/v2/products/520369"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/Processadores/Processador AMD/Ryzen",
+                "title": "Processador AMD Ryzen 7 5700X3D, 3.0 GHz, (4.1GHz Max Turbo), Cache 4MB, 8 N\u00facleos, 16 Threads, AM4 - 100-100001503WOF",
+                "description": "<h2>Processador AMD Ryzen 7 5700X3D</h2>\n<p>&nbsp;</p>\n<h3>Desempenho de &Uacute;ltima Gera&ccedil;&atilde;o para Jogos</h3>\n<p>&nbsp;O AMD Ryzen 7 5700X3D &eacute; um processador de alto desempenho, especialmente projetado para gamers. Com sua tecnologia 3D V-Cache, ele oferece um desempenho excepcional em jogos, permitindo que voc&ecirc; experimente taxas de quadros mais altas e uma experi&ecirc;ncia de jogo mais fluida.</p>\n<p>&nbsp;</p>\n<h3>Desempenho de Jogo de&nbsp;&Uacute;ltima Gera&ccedil;&atilde;o</h3>\n<p>A tecnologia 3D V-Cache aumenta significativamente o cache L3, proporcionando um aumento significativo no desempenho em jogos.</p>\n<p>&nbsp;</p>\n<h3>8 n&uacute;cleos e 16 threads</h3>\n<p>Multitarefas sem esfor&ccedil;o, desde jogos at&eacute; cria&ccedil;&atilde;o de conte&uacute;do.</p>\n<p>&nbsp;</p>\n<h3>Compatibilidade AM4</h3>\n<p>Prepare-se para o futuro com a plataforma <strong>AM4</strong>, que oferece suporte para as mais recentes tecnologias e futuras atualiza&ccedil;&otilde;es.</p>\n<p>&nbsp;</p>\n<h2>Arquitetura Zen 3 Refinada</h2>\n<p>Desfrute de velocidades supers&ocirc;nicas com<strong>&nbsp;8 n&uacute;cleos</strong> e<strong>&nbsp;16 threads</strong> de processamento, prontos para enfrentar os t&iacute;tulos mais desafiadores. Frequ&ecirc;ncia base de <strong>3,0GHz</strong> e boost din&acirc;mico de at&eacute; <strong>4,1GHz</strong> para eliminar qualquer engasgo.</p>\n<p>&nbsp;</p>\n<h2>Efici&ecirc;ncia Energ&eacute;tica sem Abdicar da Pot&ecirc;ncia</h2>\n<p>Jogue por horas sem se preocupar. O<strong> TDP de</strong> <strong>105W</strong> garante <strong>alto desempenho</strong> sem consumo excessivo de energia.</p>\n<p>&nbsp;</p>\n<h3>Compre agora no KaBuM!</h3>",
+                "weight": 243.0,
+                "price": 2177.89,
+                "old_price": 0.0,
+                "discount_percentage": 5,
+                "price_with_discount": 2069.0,
+                "offer": {
+                    "id": "898190",
+                    "name": "FIRST LEVEL",
+                    "reference_banner": "firstlevel",
+                    "starts_at": 1737468540,
+                    "ends_at": 1738584000,
+                    "quantity_available": 374,
+                    "price": 1750.52,
+                    "price_with_discount": 1662.99,
+                    "discount_percentage": 19,
+                    "is_logged_user_exclusive": false,
+                    "hash_code": "c501bfff78efbc6080d7647ffe8ab3fb8940fbab"
+                },
+                "prime": null,
+                "origin": null,
+                "is_prime": false,
+                "is_openbox": false,
+                "has_free_shipping": true,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 7537,
+                "limit_buy": 4,
+                "type": 0,
+                "external_url": "",
+                "warranty": "1 ano de garantia (3 meses de garantia legal + 9 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 548,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 5,
+                    "name": "AMD",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-amd.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023990_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023989_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023992_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023991_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023990_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023989_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023992_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023991_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023990_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023989_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023992_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023991_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023990_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023989_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023992_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023991_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023990_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023989_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023992_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023991_original.jpg"
+                ],
+                "tag_description": "Seja o MVP da sua pr\u00f3xima partida com o AMD Ryzen 7 5700X3D. Adquira o seu hoje e prepare-se para reescrever as regras do jogo! Compre j\u00e1!",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": null,
+                "max_installment": "10x de R$ 175,05",
+                "max_installment_prime": null
+            }
+        },
+        {
+            "type": "product",
+            "id": 85198,
+            "links": {
+                "self": "/catalog/v2/products/85198"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/SSD/SSD SATA",
+                "title": "SSD Kingston A400, 480GB, SATA III, 2.5\", Leitura: 500 MB/s, Grava\u00e7\u00e3o: 450 MB/s, Preto - SA400S37/480G",
+                "description": "<h2>SSD 480 GB Kingston A400</h2>\n<p>&nbsp;</p>\n<h3>Mais Confi&aacute;vel e Dur&aacute;vel&nbsp;que um HD</h3>\n<p>A unidade de estado s&oacute;lido <strong>A400 da Kingston</strong> aumenta drasticamente a resposta do seu computador com <strong>tempos incr&iacute;veis de inicializa&ccedil;&atilde;o,</strong> carregamento e transfer&ecirc;ncia, comparados a discos r&iacute;gidos mec&acirc;nicos.</p>\n<p>&nbsp;</p>\n<h3>Mais velocidade para o seu PC</h3>\n<p>Refor&ccedil;ado com uma controladora de &uacute;ltima gera&ccedil;&atilde;o para <strong>velocidades de leitura e grava&ccedil;&atilde;o de at&eacute; 500MB/s e 450MB/s</strong>, este SSD &eacute; 10x mais r&aacute;pido do que um disco r&iacute;gido tradicional para melhor desempenho, resposta ultrarr&aacute;pida em multitarefas e um computador mais r&aacute;pido de modo geral. Tamb&eacute;m <strong>mais confi&aacute;vel e dur&aacute;vel </strong>do que um disco r&iacute;gido, o A400 &eacute; feito com<strong> mem&oacute;ria Flash.</strong></p>\n<p>&nbsp;</p>\n<h3>O SSD mais resistente</h3>\n<p>O<strong> SSD Kingston A400</strong>, n&atilde;o existem partes m&oacute;veis, com menor probabilidade de falhas do que um disco r&iacute;gido mec&acirc;nico. Tamb&eacute;m &eacute; mais frio e mais silencioso e sua resist&ecirc;ncia a choques e vibra&ccedil;&atilde;o torna-o ideal para notebooks e outros dispositivos m&oacute;veis de computa&ccedil;&atilde;o.</p>\n<p>&nbsp;</p>\n<h3>Diversas Capacidades do A400</h3>\n<p>O A400 est&aacute; dispon&iacute;vel em diversas capacidades de <strong>480GB</strong> oferecendo todo o espa&ccedil;o que voc&ecirc; precisa para aplicativos, v&iacute;deos, fotos e outros documentos importantes. Voc&ecirc; tamb&eacute;m pode substituir seu disco r&iacute;gido ou um SSD menor por uma unidade grande o suficiente para conter todos os seus arquivos. SSD confi&aacute;vel e dur&aacute;vel para melhor desempenho do computador e <strong>respostas ultrarr&aacute;pidas</strong> em multitarefas.</p>\n<p>&nbsp;</p>\n<h3>SSD Kingston A400 &eacute; mais r&aacute;pido que um disco R&iacute;gido&nbsp;</h3>\n<p>R&aacute;pida inicializa&ccedil;&atilde;o, carregamento e transfer&ecirc;ncia de arquivos; <strong>Mais confi&aacute;vel</strong> e mais dur&aacute;vel do que um disco r&iacute;gido; Diversas capacidades com espa&ccedil;o para aplicativos ou para substitui&ccedil;&atilde;o do disco r&iacute;gido.</p>\n<p>&nbsp;</p>\n<h3>Garanta j&aacute; o seu SSD Kingston A400 120GB Sata no KaBuM!</h3>",
+                "weight": 54.0,
+                "price": 317.64,
+                "old_price": 0.0,
+                "discount_percentage": 15,
+                "price_with_discount": 269.99,
+                "offer": {
+                    "id": "898170",
+                    "name": "FIRST LEVEL",
+                    "reference_banner": "firstlevel",
+                    "starts_at": 1737467340,
+                    "ends_at": 1738584000,
+                    "quantity_available": 3850,
+                    "price": 294.11,
+                    "price_with_discount": 249.99,
+                    "discount_percentage": 7,
+                    "is_logged_user_exclusive": false,
+                    "hash_code": "b271dec8c33f8dac3bd5b81338c68a6aeb3162c9"
+                },
+                "prime": null,
+                "origin": null,
+                "is_prime": false,
+                "is_openbox": false,
+                "has_free_shipping": true,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 4731,
+                "limit_buy": 50,
+                "type": 0,
+                "external_url": "",
+                "warranty": "1 ano de garantia (3 meses de garantia legal + 9 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 3786,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 50,
+                    "name": "Kingston",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-kingston.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/85198/85198_1484306114_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/85198/85198_index_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/85198/85198_1484306119_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/85198/ssd-kingston-a400-480gb-sata-leitura-500mb-s-gravacao-450mb-s-sa400s37-480g_1629133546_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/85198/ssd-kingston-a400-480gb-sata-leitura-500mb-s-gravacao-450mb-s-sa400s37-480g_1629133547_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/85198/85198_1484306114_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/85198/85198_index_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/85198/85198_1484306119_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/85198/ssd-kingston-a400-480gb-sata-leitura-500mb-s-gravacao-450mb-s-sa400s37-480g_1629133546_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/85198/ssd-kingston-a400-480gb-sata-leitura-500mb-s-gravacao-450mb-s-sa400s37-480g_1629133547_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/85198/85198_1484306114_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/85198/85198_index_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/85198/85198_1484306119_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/85198/ssd-kingston-a400-480gb-sata-leitura-500mb-s-gravacao-450mb-s-sa400s37-480g_1629133546_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/85198/ssd-kingston-a400-480gb-sata-leitura-500mb-s-gravacao-450mb-s-sa400s37-480g_1629133547_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/85198/85198_1484306114_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/85198/85198_index_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/85198/85198_1484306119_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/85198/ssd-kingston-a400-480gb-sata-leitura-500mb-s-gravacao-450mb-s-sa400s37-480g_1629133546_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/85198/ssd-kingston-a400-480gb-sata-leitura-500mb-s-gravacao-450mb-s-sa400s37-480g_1629133547_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/85198/85198_1484306114_gg.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/85198/85198_index_gg.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/85198/85198_1484306119_gg.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/85198/ssd-kingston-a400-480gb-sata-leitura-500mb-s-gravacao-450mb-s-sa400s37-480g_1629133546_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/85198/ssd-kingston-a400-480gb-sata-leitura-500mb-s-gravacao-450mb-s-sa400s37-480g_1629133547_original.jpg"
+                ],
+                "tag_description": "O SSD Kingston A400 480GB Sata \u00e9 confi\u00e1vel e dur\u00e1vel para melhor desempenho do computador e respostas ultrarr\u00e1pidas em multitarefas | Confira no KaBuM!",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": {
+                    "id": 3,
+                    "title": "TOP OFERTA",
+                    "name": "top_oferta",
+                    "description": "Aproveite hoje essa oferta do Ninja com pre\u00e7o imperd\u00edvel.",
+                    "link_rule": "",
+                    "background_color": "#8941aa",
+                    "font_color": "#F2F3F4",
+                    "type": "padrao"
+                },
+                "max_installment": "10x de R$ 29,41",
+                "max_installment_prime": null
+            }
+        },
+        {
+            "type": "product",
+            "id": 96820,
+            "links": {
+                "self": "/catalog/v2/products/96820"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/Coolers/FAN/120 mm",
+                "title": "Ventoinha Rise Mode, 120mm, Azul - RM-FN-01-BB",
+                "description": "<p>Cooler FAN Rise 120mm Azul RM-FN-01-BB</p>",
+                "weight": 140.0,
+                "price": 15.28,
+                "old_price": 0.0,
+                "discount_percentage": 15,
+                "price_with_discount": 12.99,
+                "offer": {
+                    "id": "891333",
+                    "name": "FIRST LEVEL",
+                    "reference_banner": "firstlevel",
+                    "starts_at": 1736509278,
+                    "ends_at": 1738584000,
+                    "quantity_available": 117,
+                    "price": 10.58,
+                    "price_with_discount": 8.99,
+                    "discount_percentage": 30,
+                    "is_logged_user_exclusive": false,
+                    "hash_code": "765978221dfe83c526570272dc0a363824df1fc8"
+                },
+                "prime": null,
+                "origin": null,
+                "is_prime": false,
+                "is_openbox": false,
+                "has_free_shipping": false,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 1923,
+                "limit_buy": 30,
+                "type": 0,
+                "external_url": "",
+                "warranty": "1 ano de garantia (3 meses de garantia legal + 9 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 391,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 1578,
+                    "name": "Rise Mode",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-rise.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148256_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148257_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148252_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148254_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148253_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148258_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148260_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148251_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148256_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148257_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148252_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148254_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148253_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148258_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148260_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148251_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148256_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148257_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148252_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148254_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148253_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148258_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148260_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148251_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148256_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148257_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148252_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148254_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148253_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148258_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148260_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148251_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148256_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148257_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148252_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148254_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148253_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148258_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148260_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/96820/cooler-fan-rise-120mm-azul-rm-fn-01-bb_1662148251_original.jpg"
+                ],
+                "tag_description": "Compre Cooler FAN Rise, 120mm, Azul - RM-FN-01-BB no KaBuM! As melhores ofertas com \u00f3timas condi\u00e7\u00f5es de pagamento. Descubra a melhor forma de comprar online!",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": null,
+                "max_installment": "1x de R$ 9,52",
+                "max_installment_prime": null
+            }
+        },
+        {
+            "type": "product",
+            "id": 96815,
+            "links": {
+                "self": "/catalog/v2/products/96815"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/Coolers/Pasta T\u00e9rmica",
+                "title": "Pasta T\u00e9rmica Rise Mode Silver Frost, 5g, Cinza - RM-TG-01-FRT",
+                "description": "<h2>Pasta T&eacute;rmica Rise Silver Frost 5G Cinza</h2>\n<p>A Pasta t&eacute;rmica Rise Mode Frost &eacute; um produto de alta performance,<strong> indicado para ser aplicado em processadores de notebooks e computadores</strong>, ela &eacute; altamente eficiente no <strong>resfriamento do processador</strong> do seu notebook e PC! <strong>Alta condutividade T&eacute;rmica</strong> e <strong>n&atilde;o condutivo</strong>, de f&aacute;cil aplica&ccedil;&atilde;o e <strong>muito resistente &agrave; corros&atilde;o</strong>.</p>\n<h3>&nbsp;</h3>\n<h3><strong>A Pasta T&eacute;rmica Rise Silver Frost voc&ecirc; encontra aqui no KaBuM!</strong></h3>",
+                "weight": 14.0,
+                "price": 23.5,
+                "old_price": 0.0,
+                "discount_percentage": 15,
+                "price_with_discount": 19.98,
+                "offer": {
+                    "id": "889282",
+                    "name": "FIRST LEVEL",
+                    "reference_banner": "firstlevel",
+                    "starts_at": 1736509278,
+                    "ends_at": 1738584000,
+                    "quantity_available": 890,
+                    "price": 11.75,
+                    "price_with_discount": 9.99,
+                    "discount_percentage": 50,
+                    "is_logged_user_exclusive": false,
+                    "hash_code": "153d0f61aca9dad5b5e792ececf62683e0c1de6e"
+                },
+                "prime": {
+                    "price": 11.4,
+                    "price_with_discount": 9.69,
+                    "discount_percentage": 51,
+                    "save": 0.0,
+                    "is_logged_user_exclusive": true
+                },
+                "origin": null,
+                "is_prime": true,
+                "is_openbox": true,
+                "has_free_shipping": false,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 9669,
+                "limit_buy": 5,
+                "type": 0,
+                "external_url": "",
+                "warranty": "1 ano de garantia (3 meses de garantia legal + 9 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 2171,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 1578,
+                    "name": "Rise Mode",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-rise.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/96815/pasta-termica-rise-mode-silver-frost-5g-cinza-rm-tg-01-frt_1721236703_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96815/pasta-termica-rise-mode-silver-frost-5g-cinza-rm-tg-01-frt_1721236702_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96815/pasta-termica-rise-mode-silver-frost-5g-cinza-rm-tg-01-frt_1721236701_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/96815/pasta-termica-rise-mode-silver-frost-5g-cinza-rm-tg-01-frt_1721236703_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96815/pasta-termica-rise-mode-silver-frost-5g-cinza-rm-tg-01-frt_1721236702_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96815/pasta-termica-rise-mode-silver-frost-5g-cinza-rm-tg-01-frt_1721236701_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/96815/pasta-termica-rise-mode-silver-frost-5g-cinza-rm-tg-01-frt_1721236703_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96815/pasta-termica-rise-mode-silver-frost-5g-cinza-rm-tg-01-frt_1721236702_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96815/pasta-termica-rise-mode-silver-frost-5g-cinza-rm-tg-01-frt_1721236701_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/96815/pasta-termica-rise-mode-silver-frost-5g-cinza-rm-tg-01-frt_1721236703_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96815/pasta-termica-rise-mode-silver-frost-5g-cinza-rm-tg-01-frt_1721236702_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96815/pasta-termica-rise-mode-silver-frost-5g-cinza-rm-tg-01-frt_1721236701_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/96815/pasta-termica-rise-mode-silver-frost-5g-cinza-rm-tg-01-frt_1721236703_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/96815/pasta-termica-rise-mode-silver-frost-5g-cinza-rm-tg-01-frt_1721236702_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/96815/pasta-termica-rise-mode-silver-frost-5g-cinza-rm-tg-01-frt_1721236701_original.jpg"
+                ],
+                "tag_description": "Pasta t\u00e9rmica Rise Mode Frost \u00e9 um produto de alta performance, indicado para ser aplicado em processadores de notebooks e computadores ! Compre no KaBuM!",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": null,
+                "max_installment": "1x de R$ 10,58",
+                "max_installment_prime": "1x de R$ 10,26"
+            }
+        },
+        {
+            "type": "product",
+            "id": 516056,
+            "links": {
+                "self": "/catalog/v2/products/516056"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/Fontes/Fonte 650W",
+                "title": "Fonte Corsair CX Series CX650, 650W, 80 Plus Bronze, Com Cabo, Preto - CP-9020278-BR",
+                "description": "<h2>Fonte Corsair CX Series CX650</h2>\n<p>&nbsp;</p>\n<p>Constru&iacute;da para durar, a fonte Corsair CX660 possui <strong>certifica&ccedil;&atilde;o 80 PLUS Bronze</strong>, garantindo <strong>alta efici&ecirc;ncia energ&eacute;tica</strong>. Seu design compacto e elegante, com cabos pretos e acabamento em pintura a p&oacute;, complementa qualquer configura&ccedil;&atilde;o de PC. A <strong>ventoinha de 120mm</strong> com controle t&eacute;rmico mant&eacute;m o sistema refrigerado e silencioso. Com a garantia de 5 anos da Corsair e suporte t&eacute;cnico global, voc&ecirc; pode confiar na CX660 para alimentar seu PC com seguran&ccedil;a e efici&ecirc;ncia.</p>\n<p>&nbsp;</p>\n<p><strong>Certifica&ccedil;&atilde;o 80 PLUS Bronze</strong>: Fornece at&eacute; 88% de efici&ecirc;ncia operacional, gerando menos calor e reduzindo o consumo de energia.</p>\n<p><strong>Pot&ecirc;ncia cont&iacute;nua</strong>&nbsp;total: As fontes de alimenta&ccedil;&atilde;o CORSAIR CX Series garantem a capacidade total de pot&ecirc;ncia cont&iacute;nua.</p>\n<p><strong>Estrutura compacta</strong>: O comprimento de 125mm facilita a instala&ccedil;&atilde;o em quase todos os gabinetes de PC modernos.</p>\n<p><strong>Resfriamento silencioso</strong>: Uma ventoinha de resfriamento de 120mm de baixo ru&iacute;do controlada termalmente gira em alta velocidade somente em momentos de maior carga da fonte e reduz a velocidade em momentos de carga menor para opera&ccedil;&atilde;o mais silenciosa.</p>\n<p><strong>Revestimento e caixa pretos</strong>: Os cabos com revestimento preto e a caixa em pintura a p&oacute; preta combinam com o estilo do seu PC.</p>\n<p>&nbsp;</p>\n<h3>Compre agora no KaBuM!</h3>",
+                "weight": 2300.0,
+                "price": 516.46,
+                "old_price": 0.0,
+                "discount_percentage": 15,
+                "price_with_discount": 438.99,
+                "offer": {
+                    "id": "893929",
+                    "name": "FIRST LEVEL",
+                    "reference_banner": "firstlevel",
+                    "starts_at": 1737464220,
+                    "ends_at": 1738584000,
+                    "quantity_available": 942,
+                    "price": 423.52,
+                    "price_with_discount": 359.99,
+                    "discount_percentage": 17,
+                    "is_logged_user_exclusive": false,
+                    "hash_code": "635dc97093b730db622563bc7919938b73cbe64e"
+                },
+                "prime": null,
+                "origin": null,
+                "is_prime": false,
+                "is_openbox": false,
+                "has_free_shipping": true,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 2141,
+                "limit_buy": 10,
+                "type": 0,
+                "external_url": "",
+                "warranty": "5 anos de garantia (3 meses de garantia legal + 57 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 32,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 36,
+                    "name": "Corsair",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-corsair.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483460_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483458_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483455_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483461_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483459_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483456_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483457_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483460_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483458_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483455_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483461_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483459_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483456_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483457_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483460_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483458_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483455_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483461_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483459_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483456_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483457_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483460_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483458_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483455_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483461_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483459_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483456_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483457_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483460_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483458_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483455_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483461_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483459_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483456_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/516056/fonte-corsair-cx-series-cx650-650w-80-plus-bronze-sem-cabo-preto-cp-9020278-br_1714483457_original.jpg"
+                ],
+                "tag_description": "Alimenta\u00e7\u00e3o completa e cont\u00ednua garante um desempenho consistente, enquanto uma ventoinha de 120mm de baixo ru\u00eddo. Compre j\u00e1!",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": {
+                    "id": 3,
+                    "title": "TOP OFERTA",
+                    "name": "top_oferta",
+                    "description": "Aproveite hoje essa oferta do Ninja com pre\u00e7o imperd\u00edvel.",
+                    "link_rule": "",
+                    "background_color": "#8941aa",
+                    "font_color": "#F2F3F4",
+                    "type": "padrao"
+                },
+                "max_installment": "10x de R$ 42,35",
+                "max_installment_prime": null
+            }
+        },
+        {
+            "type": "product",
+            "id": 437369,
+            "links": {
+                "self": "/catalog/v2/products/437369"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/Coolers/FAN/120 mm",
+                "title": "Kit Com 5 Ventoinhas Rise Mode Crystal Sound, 120mm, ARGB, Transparente - RM-CS-02-ARGB",
+                "description": "<h2>Kit Cooler Fan Gamer 5x Rise Mode Crystal Sound</h2>\n<p>&nbsp;</p>\n<p>A solu&ccedil;&atilde;o perfeita para quem busca um sistema de refrigera&ccedil;&atilde;o eficiente e silencioso. Os <strong>5 fans de 120mm</strong> com<strong> ilumina&ccedil;&atilde;o ARGB</strong> oferecem um <strong>fluxo de ar poderoso e uniforme</strong>, enquanto o rolamento de fluido garante uma <strong>opera&ccedil;&atilde;o silenciosa</strong>. O kit tamb&eacute;m conta com controle remoto e suporte a <strong>LED r&iacute;tmico</strong>, para que voc&ecirc; possa personalizar a ilumina&ccedil;&atilde;o do seu sistema de acordo com sua prefer&ecirc;ncia.</p>\n<p>&nbsp;</p>\n<h3>Compre agora no KaBuM!</h3>",
+                "weight": 656.0,
+                "price": 141.16,
+                "old_price": 0.0,
+                "discount_percentage": 15,
+                "price_with_discount": 119.99,
+                "offer": {
+                    "id": "897488",
+                    "name": "FIRST LEVEL",
+                    "reference_banner": "firstlevel",
+                    "starts_at": 1737115620,
+                    "ends_at": 1738584000,
+                    "quantity_available": 614,
+                    "price": 132.93,
+                    "price_with_discount": 112.99,
+                    "discount_percentage": 5,
+                    "is_logged_user_exclusive": false,
+                    "hash_code": "e7e61f000f33c8a0ab55c3d9b4f87f1b5d9acd1c"
+                },
+                "prime": null,
+                "origin": null,
+                "is_prime": false,
+                "is_openbox": false,
+                "has_free_shipping": false,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 1000,
+                "limit_buy": 4,
+                "type": 0,
+                "external_url": "",
+                "warranty": "1 ano de garantia (3 meses de garantia legal + 9 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 463,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 1578,
+                    "name": "Rise Mode",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-rise.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-com-5-ventoinhas-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1717503593_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217623_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217622_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217458_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217457_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-com-5-ventoinhas-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1717503593_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217623_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217622_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217458_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217457_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-com-5-ventoinhas-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1717503593_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217623_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217622_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217458_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217457_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-com-5-ventoinhas-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1717503593_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217623_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217622_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217458_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217457_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/437369/kit-com-5-ventoinhas-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1717503593_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217623_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217622_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217458_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/437369/kit-cooler-fan-gamer-5x-rise-mode-crystal-sound-120mm-argb-transparente-rm-cs-02-argb_1690217457_original.jpg"
+                ],
+                "tag_description": "A escolha perfeita para quem busca um sistema de refrigera\u00e7\u00e3o eficiente, silencioso e com ilumina\u00e7\u00e3o personalizada. Compre j\u00e1 o seu!",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": {
+                    "id": 284,
+                    "title": "Entrega R\u00e1pida",
+                    "name": "entrega_rapida",
+                    "description": "Com Entrega Flash*, seu produto chega rapid\u00e3o!",
+                    "link_rule": "https://themes.kabum.com.br/conteudo/stamps/entrega_rapida.json",
+                    "background_color": "#E35214",
+                    "font_color": "#F2F3F4",
+                    "type": "padrao"
+                },
+                "max_installment": "5x de R$ 26,58",
+                "max_installment_prime": null
+            }
+        },
+        {
+            "type": "product",
+            "id": 96826,
+            "links": {
+                "self": "/catalog/v2/products/96826"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/Coolers/FAN/120 mm",
+                "title": "Kit Com 3 Ventoinhas Rise Mode, 120mm, RGB, Preto - RM-FN-02-RGB",
+                "description": "<h2>Kit Cooler FAN Rise Smart, Dual Led, RGB 120mm&nbsp;</h2>\n<p>&nbsp;</p>\n<h2>Como funciona cooler fan?</h2>\n<p>O sistema de funcionamento dos air coolers &eacute; conhecido como &ldquo;push and pull&rdquo; ou empurrar e puxar que consiste na constante movimenta&ccedil;&atilde;o at&eacute; a retirada do calor, enquanto um fan empurra o ar em dire&ccedil;&atilde;o ao dissipador, outro fan retira o ar quente que estava sobre o dissipador.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h2>Cooler FAN Rise</h2>\n<p>Com tecnologia RGB o <strong>Cooler FAN Rise Smart&nbsp;</strong>&eacute; ideal para seu PC. Tamanho de <strong>120mm</strong> e com voltagem de <strong>12V</strong>, esse Cooler FAN traz mais desempenho para o resfriamento e performance do seu PC.&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Sua velocidade de <strong>1650 RPN,</strong> e com rolamento de flu&iacute;do, deixa seu fluxo de ar com <strong>50 CFM</strong></p>\n<p>&nbsp;</p>\n<h3>Garanta o seu Cooler FAN no KaBuM!</h3>",
+                "weight": 572.0,
+                "price": 105.87,
+                "old_price": 0.0,
+                "discount_percentage": 15,
+                "price_with_discount": 89.99,
+                "offer": {
+                    "id": "897464",
+                    "name": "FIRST LEVEL",
+                    "reference_banner": "firstlevel",
+                    "starts_at": 1737115620,
+                    "ends_at": 1738584000,
+                    "quantity_available": 1562,
+                    "price": 99.99,
+                    "price_with_discount": 84.99,
+                    "discount_percentage": 5,
+                    "is_logged_user_exclusive": false,
+                    "hash_code": "b530197e54451c7becc2d4c11c537424970ba080"
+                },
+                "prime": {
+                    "price": 96.99,
+                    "price_with_discount": 82.44,
+                    "discount_percentage": 8,
+                    "save": 3.0,
+                    "is_logged_user_exclusive": true
+                },
+                "origin": null,
+                "is_prime": true,
+                "is_openbox": false,
+                "has_free_shipping": false,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 6348,
+                "limit_buy": 4,
+                "type": 0,
+                "external_url": "",
+                "warranty": "1 ano de garantia (3 meses de garantia legal + 9 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 959,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 1578,
+                    "name": "Rise Mode",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-rise.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774233_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774234_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774235_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774236_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774237_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774233_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774234_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774235_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774236_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774237_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774233_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774234_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774235_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774236_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774237_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774233_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774234_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774235_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774236_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774237_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774233_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774234_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774235_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774236_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/96826/cooler-fan-rise-smart-3-unidades-120mm-rgb-rm-fn-02-rgb_1663774237_original.jpg"
+                ],
+                "tag_description": "Com tecnologia RGB o Cooler FAN Rise Smart \u00e9 ideal para seu PC. Tamanho de 120mm e com voltagem de 12V, esse Cooler FAN traz mais desempenho. Compre j\u00e1",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": null,
+                "max_installment": "3x de R$ 33,33",
+                "max_installment_prime": "3x de R$ 32,33"
+            }
+        },
+        {
+            "type": "product",
+            "id": 114781,
+            "links": {
+                "self": "/catalog/v2/products/114781"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/Placas-m\u00e3e/Placa-M\u00e3e AMD",
+                "title": "Placa-M\u00e3e Gigabyte B550M Aorus Elite Rev. 1.3, AMD AM4, Micro ATX, DDR4, Preto - B550M AORUS ELITE",
+                "description": "<h2>Placa M&atilde;e Gigabyte B550M Aorus Elite (rev. 1.3)</h2>\n<p>&nbsp;</p>\n<h3>Pot&ecirc;ncia e versatilidade para gamers e entusiastas.</h3>\n<p>Libere todo o potencial dos processadores AMD Ryzen de 3&ordf; e 4&ordf; gera&ccedil;&atilde;o com a placa-m&atilde;e Gigabyte B550M Aorus Elite. Projetada para oferecer desempenho excepcional, ela conta com recursos avan&ccedil;ados como VRM digital de alta qualidade, slots <strong>DDR4</strong> de alta velocidade, e conectividade ultrarr&aacute;pida. Ideal para gamers que buscam uma plataforma s&oacute;lida para construir um PC poderoso e personaliz&aacute;vel.</p>\n<p>&nbsp;</p>\n<h3>Desempenho Sob Medida</h3>\n<p>Plataforma AMD Ryzen de Alta Performance: Liberte todo o potencial dos processadores AMD Ryzen de 3&ordf; e 4&ordf; gera&ccedil;&atilde;o com esta placa-m&atilde;e robusta e eficiente.</p>\n<p><strong>VRM Digital de Alta Qualidade</strong>: Garanta estabilidade e overclocking seguro, mesmo nas tarefas mais exigentes.</p>\n<p>Mem&oacute;ria <strong>DDR4 de Alta Velocidade</strong>: Suporte a mem&oacute;rias DDR4 de alta frequ&ecirc;ncia, proporcionando maior largura de banda e desempenho excepcional.</p>\n<p>&nbsp;</p>\n<h3>Solu&ccedil;&atilde;o de VRM digital pura de 5+3 fases com baixo R DS( on ) MOSFETs</h3>\n<p>As placas-m&atilde;e da s&eacute;rie GIGABYTE AORUS utilizam um design <strong>PWM digital puro de 5+3 fases</strong> +<strong> MOSFETs Low RDS</strong>(on) para suportar os CPUs AMD Ryzen de 3&ordf; gera&ccedil;&atilde;o, oferecendo uma precis&atilde;o incr&iacute;vel no fornecimento de energia para os componentes mais exigentes e sensibilidade &agrave; energia da placa-m&atilde;e, al&eacute;m de oferecer desempenho aprimorado do sistema e escalabilidade de hardware final.</p>\n<p>&nbsp;</p>\n<h3>Compre agora no KaBuM!</h3>",
+                "weight": 1050.0,
+                "price": 1058.81,
+                "old_price": 0.0,
+                "discount_percentage": 15,
+                "price_with_discount": 899.99,
+                "offer": null,
+                "prime": {
+                    "price": 1027.05,
+                    "price_with_discount": 872.99,
+                    "discount_percentage": 2,
+                    "save": 27.0,
+                    "is_logged_user_exclusive": true
+                },
+                "origin": null,
+                "is_prime": true,
+                "is_openbox": false,
+                "has_free_shipping": true,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 7232,
+                "limit_buy": 2,
+                "type": 0,
+                "external_url": "",
+                "warranty": "1 ano de garantia (3 meses de garantia legal + 9 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 654,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 55,
+                    "name": "Gigabyte",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-gigabyte.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908595_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908596_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908597_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908598_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908599_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908595_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908596_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908597_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908598_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908599_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908595_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908596_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908597_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908598_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908599_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908595_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908596_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908597_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908598_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908599_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908595_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908596_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908597_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908598_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/114781/placa-mae-gigabyte-b550m-aorus-elite-amd-am4-micro-atx-ddr4_1594908599_original.jpg"
+                ],
+                "tag_description": "Com velocidade de transfer\u00eancia de dados de at\u00e9 64 Gb / s, o design de dois conectores M.2 fornece uma solu\u00e7\u00e3o de armazenamento ideal. Compre j\u00e1",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": null,
+                "max_installment": "10x de R$ 105,88",
+                "max_installment_prime": "10x de R$ 102,70"
+            }
+        },
+        {
+            "type": "product",
+            "id": 369655,
+            "links": {
+                "self": "/catalog/v2/products/369655"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/Fontes/Fonte 600W",
+                "title": "Fonte MSI MAG A600DN, 600W, 80 Plus White, PFC Ativo, Com Cabo, Preto - 306-7ZP6B22-809",
+                "description": "<h2>Fonte MSI MAG A600DN, ATX, 600W, 80 PLUS, PFC Ativo</h2>\n<p>A s&eacute;rie MAG luta ao lado dos jogadores em busca de honra.&nbsp;Com elementos de inspira&ccedil;&atilde;o militar adicionados nestes produtos de jogos, eles renasceram como o s&iacute;mbolo de robustez e durabilidade.</p>\n<p>&nbsp;</p>\n<h2>80 Plus</h2>\n<p>A efici&ecirc;ncia de sua fonte de alimenta&ccedil;&atilde;o influencia diretamente o desempenho de seu sistema e seu consumo de energia.&nbsp;A certifica&ccedil;&atilde;o 80 PLUS promete menor consumo de energia e 80% de efici&ecirc;ncia.<br />Seu sistema pode operar com seguran&ccedil;a em carga m&aacute;xima em temperaturas de at&eacute; 40&deg;C.&nbsp;Esta fonte de alimenta&ccedil;&atilde;o &eacute; feita para durar, independentemente do ambiente em que seu sistema est&aacute;.</p>\n<p>&nbsp;</p>\n<h2>Ventilador de baixo ru&iacute;do</h2>\n<p>A ventoinha de 120 mm reduz o ru&iacute;do gerado, mantendo uma excelente dissipa&ccedil;&atilde;o de calor.<br />Os cabos do MAG A600DN s&atilde;o planos e em preto.&nbsp;Os cabos planos tornam o gerenciamento de cabos mais f&aacute;cil e menos dor de cabe&ccedil;a!&nbsp;Gra&ccedil;as aos cabos planos, todo o sistema pode ser mais organizado.</p>",
+                "weight": 1920.0,
+                "price": 323.52,
+                "old_price": 0.0,
+                "discount_percentage": 15,
+                "price_with_discount": 274.99,
+                "offer": null,
+                "prime": {
+                    "price": 305.87,
+                    "price_with_discount": 259.99,
+                    "discount_percentage": 5,
+                    "save": 15.0,
+                    "is_logged_user_exclusive": true
+                },
+                "origin": null,
+                "is_prime": true,
+                "is_openbox": false,
+                "has_free_shipping": true,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 284,
+                "limit_buy": 5,
+                "type": 0,
+                "external_url": "",
+                "warranty": "3 anos de garantia (3 meses de garantia legal + 33 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 458,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 2,
+                    "name": "MSI",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-msi.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475815_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1668451840_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475814_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475812_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475813_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475815_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1668451840_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475814_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475812_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475813_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475815_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1668451840_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475814_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475812_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475813_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475815_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1668451840_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475814_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475812_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475813_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475815_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1668451840_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475814_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475812_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475813_original.jpg"
+                ],
+                "tag_description": "Os padr\u00f5es de design distintos do MAG A600DN simbolizam unidade e for\u00e7a. Garanta j\u00e1 sua Fonte no KaBuM!",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": null,
+                "max_installment": "10x de R$ 32,35",
+                "max_installment_prime": "10x de R$ 30,58"
+            }
+        },
+        {
+            "type": "product",
+            "id": 469132,
+            "links": {
+                "self": "/catalog/v2/products/469132"
+            },
+            "relationships": {},
+            "attributes": {
+                "menu": "Hardware/Placa de v\u00eddeo (VGA)/Placa de v\u00eddeo Nvidia",
+                "title": "Placa de V\u00eddeo RTX 4060 VENTUS 2x Black OC MSI NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing",
+                "description": "<h2>Placa de V&iacute;deo MSI NVIDIA GeForce RTX 4060 VENTUS 2X Black&nbsp;8G OC</h2>\n<p>&nbsp;</p>\n<p>O VENTUS traz uma experi&ecirc;ncia fundamentalmente s&oacute;lida para usu&aacute;rios que procuram uma placa gr&aacute;fica de <strong>alto desempenho</strong>. Um design atualizado de apar&ecirc;ncia n&iacute;tida com o <strong>TORX FAN 4.0</strong> permite que o VENTUS passe por qualquer tarefa.&nbsp;</p>\n<p>&nbsp;</p>\n<h3>Leve o Essencial</h3>\n<p>O VENTUS traz uma experi&ecirc;ncia fundamentalmente s&oacute;lida para usu&aacute;rios que procuram uma placa gr&aacute;fica de alto desempenho. Um design atualizado de apar&ecirc;ncia n&iacute;tida com o <strong>TORX FAN 4.0</strong> permite que o VENTUS passe por qualquer tarefa.</p>\n<p>&nbsp;</p>\n<h3>O TORX FAN 4.0</h3>\n<p>Constru&iacute;do com base no trabalho em equipe, com pares de p&aacute;s do ventilador unidas por um<strong> design de anel externo</strong> vinculado que concentra o fluxo de ar no sistema de <strong>resfriamento Dual-Fan</strong>.</p>\n<p>&nbsp;</p>\n<h3>DLSS</h3>\n<p>Jogue, transmita, crie. A GeForce RTX 4060 permite que voc&ecirc; <strong>jogue os jogos e aplicativos mais recentes</strong> com a ultraeficiente arquitetura NVIDIA<strong> Ada Lovelace</strong>. Experimente jogos imersivos acelerados por<strong> IA</strong> com <strong>ray tracing e DLSS 3</strong> e potencialize seu processo criativo e produtividade com o NVIDIA Studio.</p>\n<p>&nbsp;</p>\n<h3>Software MSI Center</h3>\n<p>Exclusivo da MSI ajuda voc&ecirc; a obter o m&aacute;ximo de seus produtos MSI. Monitore, ajuste e otimize em tempo real com apenas alguns cliques.</p>\n<p>&nbsp;</p>\n<h3>Compre agora no KaBuM!</h3>",
+                "weight": 783.0,
+                "price": 3023.24,
+                "old_price": 0.0,
+                "discount_percentage": 14,
+                "price_with_discount": 2599.99,
+                "offer": null,
+                "prime": {
+                    "price": 2481.4,
+                    "price_with_discount": 2134.0,
+                    "discount_percentage": 17,
+                    "save": 466.0,
+                    "is_logged_user_exclusive": true
+                },
+                "origin": null,
+                "is_prime": true,
+                "is_openbox": false,
+                "has_free_shipping": false,
+                "has_free_shipping_for_prime_user": false,
+                "is_pre_order": false,
+                "date_pre_order": 0,
+                "available": true,
+                "species": 0,
+                "stock": 133,
+                "limit_buy": 4,
+                "type": 0,
+                "external_url": "",
+                "warranty": "1 ano de garantia (3 meses de garantia legal + 9 meses de garantia contratual junto ao fabricante)",
+                "score_of_ratings": 5,
+                "number_of_ratings": 327,
+                "is_marketplace": false,
+                "marketplace": {},
+                "manufacturer": {
+                    "id": 2,
+                    "name": "MSI",
+                    "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-msi.jpg"
+                },
+                "photos": {
+                    "p": [
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1688052210_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964030_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964028_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964031_p.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964032_p.jpg"
+                    ],
+                    "m": [
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1688052210_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964030_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964028_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964031_m.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964032_m.jpg"
+                    ],
+                    "g": [
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1688052210_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964030_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964028_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964031_g.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964032_g.jpg"
+                    ],
+                    "gg": [
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1688052210_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964030_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964028_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964031_gg.jpg",
+                        "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964032_gg.jpg"
+                    ]
+                },
+                "images": [
+                    "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1688052210_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964030_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964028_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964031_original.jpg",
+                    "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1687964032_original.jpg"
+                ],
+                "tag_description": "Uma placa gr\u00e1fica de alto desempenho, jogue os jogos e aplicativos mais recentes com a ultraeficiente arquitetura Ada Lovelace. Compre j\u00e1 a sua!",
+                "ufs_flash": [],
+                "featured_product": false,
+                "stamps": null,
+                "max_installment": "10x de R$ 302,32",
+                "max_installment_prime": "10x de R$ 248,14"
+            }
+        }
+    ]
+}
