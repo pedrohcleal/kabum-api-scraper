@@ -53,7 +53,6 @@ python main.py
 kabum-api-scraper/
 ├── main.py                # Script principal de coleta e exportação
 ├── requirements.txt       # Dependências do projeto
-├── hardware_products.xlsx # Arquivo Excel com os dados coletados
 └── readme.md              # Documentação do projeto
 ```
 
