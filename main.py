@@ -2,6 +2,10 @@ import requests
 from openpyxl import Workbook
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
+from utils.utils import normalize_title_to_link
+from time import sleep
+
+from pprint import pprint
 
 
 def fetch_hardware(page):
@@ -30,6 +34,7 @@ def fetch_hardware(page):
             "number_of_ratings": x["attributes"]["number_of_ratings"],
             "photos-g": str(x["attributes"]["photos"]["g"]),
             "warranty": x["attributes"]["warranty"],
+            'url': f'https://www.kabum.com.br/produto/{x['id']}/{normalize_title_to_link(x["attributes"]["title"],)}',
         }
         for x in response.json()["data"]
     ]
@@ -37,7 +42,7 @@ def fetch_hardware(page):
     return l_products
 
 
-def hardware_data():
+def hardware_data(category):
     url = "https://servicespub.prod.api.aws.grupokabum.com.br/catalog/v2/products-by-category/hardware?page_number=1&page_size=100&facet_filters=&sort=most_searched&is_prime=false&payload_data=products_category_filters&include=gift"
     response = requests.get(url)
     total_pages = response.json()["meta"]["total_pages_count"]
@@ -47,7 +52,7 @@ def hardware_data():
 
     with ThreadPoolExecutor(
         max_workers=5
-    ) as executor:  # Utilizando ThreadPoolExecutor para paralelizar as requisições
+    ) as executor:
         futures = [
             executor.submit(fetch_hardware, page) for page in range(1, total_pages + 1)
         ]
@@ -75,6 +80,7 @@ def to_excel(data, file_name):
         "Number of Ratings",
         "Photos (g)",
         "Warranty",
+        "URL"
     ]
     sheet.append(headers)
 
@@ -86,9 +92,16 @@ def to_excel(data, file_name):
 
 
 def main():
-    hardware_products = hardware_data()
-    to_excel(hardware_products, file_name="hardware_products.xlsx")
-
+    hardware_inicial_data = hardware_data('hardware')
+    print(f'quantidade de produtos ={len(hardware_inicial_data)}')
+    print(f'percorrendo produtos\n')
+    sleep(5)
+    for i in hardware_inicial_data:
+        sleep(0.1)
+        print(i['url'])
+    
+    to_excel(hardware_inicial_data, file_name="hardware_products.xlsx")    
+    
 
 if __name__ == "__main__":
     main()
